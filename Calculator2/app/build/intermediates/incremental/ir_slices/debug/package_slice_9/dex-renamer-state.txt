@@ -1,0 +1,4 @@
+#Sun May 13 13:44:45 CDT 2018
+base.0=/Users/malissafiger/AndroidStudioProjects/Calculator2/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
